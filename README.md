@@ -1,3 +1,5 @@
-# learningGit
-branches seems to be working
-mayank tutions lena shuru kr
+
+commit by me who ? me
+
+chutti padgyi bataiye 
+
